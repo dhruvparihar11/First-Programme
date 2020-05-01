@@ -1,9 +1,10 @@
 #include<iostream>
-using namespace std:
+
 
 int main()
 {
-    cout << "Hello GitHub!";
+    std::cout << "Hello GitHub!" << std::endl;
+    std::cin.get();
     
     result 0;
     
